@@ -13,6 +13,12 @@ body {
     display: none !important;
 }
 
+/* Hide the back button using display: none */
+.flex.space-x-3.items-center a {
+  display: none !important;
+}
+
+
 html[data-full],
 html[data-full] body {
   overscroll-behavior-y: none;
