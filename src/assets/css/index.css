@@ -19,7 +19,9 @@ body[data-no-scroll] {
   overflow-y: hidden;
   height: 100vh;
 }
-
+    .sm\:flex {
+        display: none;
+    }
 #root {
   padding: 0.05px;
   min-height: 100vh;
