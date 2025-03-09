@@ -13,14 +13,6 @@ body {
     display: none !important;
 }
 
-/* Hide the back button using display: none */
-.flex.space-x-3.items-center a {
-  display: none !important;
-}
-/* Hide the 'Go home' link */
-a.bg-buttons-cancel {
-  display: none !important;
-}
 
 /* Hide the 'Discover more' button */
 button.bg-buttons-cancel {
