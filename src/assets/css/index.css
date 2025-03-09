@@ -9,6 +9,9 @@ body {
   min-height: 100dvh;
   font-size: 1.0248em;
 }
+.hidden.sm\:flex.items-center.justify-end {
+    display: none !important;
+}
 
 html[data-full],
 html[data-full] body {
