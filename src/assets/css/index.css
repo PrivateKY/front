@@ -18,6 +18,11 @@ body {
   display: none !important;
 }
 
+/* Hide the entire section with the grid class */
+.grid.grid-cols-\[1fr\,auto\].xl\:grid-cols-3.items-center {
+  display: none !important;
+}
+
 
 html[data-full],
 html[data-full] body {
