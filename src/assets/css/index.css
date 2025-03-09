@@ -23,6 +23,9 @@ body {
   display: none !important;
 }
 
+.flex.space-x-3.items-center {
+  display: none !important;
+}
 
 html[data-full],
 html[data-full] body {
