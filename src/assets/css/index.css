@@ -17,6 +17,15 @@ body {
 .flex.space-x-3.items-center a {
   display: none !important;
 }
+/* Hide the 'Go home' link */
+a.bg-buttons-cancel {
+  display: none !important;
+}
+
+/* Hide the 'Discover more' button */
+button.bg-buttons-cancel {
+  display: none !important;
+}
 
 /* Hide the entire section with the grid class */
 .grid.grid-cols-\[1fr\,auto\].xl\:grid-cols-3.items-center {
